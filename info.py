@@ -45,15 +45,15 @@ IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_dwnload/31")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_dwnload/37")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_dwnload/31")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_dwnload/22")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "6caa2252957519f1874398b83bb5532d0b0c56de")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE",
 'Shortyfi.link')
 SHORTENER_API2 = environ.get("SHORTENER_API2", "46ac5441b1b2e3c7d770715b42bf8c8160c7c947")
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'adcash.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "6caa2252957519f1874398b83bb5532d0b0c56de")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'Shortyfi.link')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "826eb92e893f6fdb42920983bba04c409bdc0b5d")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'tnshort.net')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "120"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "120"))
 #---------------------------------------------------------------
