@@ -44,7 +44,7 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+IUtJOsISPsszYmJl') #Su
 IS_VERIFY = is_enabled('IS_VERIFY', True)
 #---------------------------------------------------------------
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_dwnload/31")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_dwnload/31")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_dwnload/37")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_dwnload/31")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "6caa2252957519f1874398b83bb5532d0b0c56de")
