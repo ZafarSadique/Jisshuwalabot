@@ -34,9 +34,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', '0')
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1001588212650'))  # set shortner log channel
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002194850073')) # The movie you upload in it will be deleted from the bot.
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1001588212650'))
-auth_channel = environ.get('AUTH_CHANNEL', '-1001779351808')
+AUTH_CHANNEL = environ.get('AUTH_CHANNEL', '-1001779351808')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1001774466880'))
-request_channel = environ.get('REQUEST_CHANNEL', '-1002439168100') # If anyone sends a request message to your bot, you will get it in this channel.
+REQUEST_CHANNEL = environ.get('REQUEST_CHANNEL', '-1002439168100') # If anyone sends a request message to your bot, you will get it in this channel.
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002439168100')) # 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+IUtJOsISPsszYmJl') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
