@@ -50,8 +50,8 @@ VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c
 SHORTENER_API = environ.get("SHORTENER_API", "46ac5441b1b2e3c7d770715b42bf8c8160c7c947")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE",
 'adcash.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "6caa2252957519f1874398b83bb5532d0b0c56de")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'Shortyfi.link')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "a37d35def762b00679123e4bafab4be0416f43c6")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'shortyfi.site')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "826eb92e893f6fdb42920983bba04c409bdc0b5d")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'tnshort.net')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "120"))
