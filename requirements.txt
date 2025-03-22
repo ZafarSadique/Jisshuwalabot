@@ -41,3 +41,4 @@ wheel
 dnspython==2.3.0 
 python-decouple 
 ffmpeg-python>=0.2.0
+pyrofork==2.3.43
